@@ -26,3 +26,10 @@ KNN Model
 Predictions
    ↓
 Model Evaluation
+
+## Author
+
+**Abhilash Bharadwaj**
+
+B.Tech — Civil Engineering  
+National Institute of Technology Silchar
